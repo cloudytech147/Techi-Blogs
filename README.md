@@ -27,3 +27,20 @@
 * What are the two arguments that async.queue takes as input?
 * State the difference between Node.js vs Ajax?
 * Describe the advantages and disadvantages of Node.js?
+
+### 3. [Docker Interview Questions and Answers](https://www.techgeekbuzz.com/top-docker-interview-questions/)
+
+* What do you understand by the term Docker?
+* What do you understand by virtualization?
+* Name the latest version of Docker.
+* What do you understand by containerization?
+* Explain hypervisors used in VMs in simple terms.
+* Differentiate containerization and virtualization.
+* Explain Docker containers in simple terms.
+* Explain Docker Images in simpler terms.
+* What do you understand by Docker hub?
+* Explain in simple terms the architecture of Docker.
+* Explain the uses of a Dockerfile in Docker.
+
+
+
