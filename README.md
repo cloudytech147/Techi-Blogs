@@ -58,3 +58,28 @@
 * Explain GUI in Linux.
 * Mention Linux File Permissions.
 
+### 5. [DevOps Interview Questions](https://www.techgeekbuzz.com/devops-interview-questions/)
+
+* What can you tell me about DevOps?
+* What is the need for DevOps in the current market?
+* Explain the difference between DevOps and Agile in SDLC? (DevOps Vs Agile)
+* List a few tools that might be handy for end-to-end DevOps.
+* Explain how these tools work together to carry out DevOps practices?
+* Enlist the advantages and benefits that DevOps brings to the table.
+* What are some of the anti-patterns in DevOps?
+* Explain the different phases in DevOps?
+* Differentiate the terms Continuous Delivery (CD) and Continuous Deployment with respect to DevOps?
+* Explain the role of Continuous Monitoring in DevOps?
+* In DevOps, explain the purpose of Configuration Management (CM)?
+* Explain the role of Amazon Web Services (AWS) in DevOps?
+
+
+
+
+
+
+
+
+
+
+
