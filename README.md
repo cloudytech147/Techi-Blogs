@@ -42,5 +42,19 @@
 * Explain in simple terms the architecture of Docker.
 * Explain the uses of a Dockerfile in Docker.
 
+### 4. [Linux Interview Questions](https://www.techgeekbuzz.com/top-linux-interview-questions/)
 
+* What is the latest version of Linux?
+* What can you tell us about Linux?
+* Can you explain what is Bash?
+* Can you differentiate Unix and Linux?
+* Explain CLI in Linux.
+* Explain in your own words the use of Linux Kernel.
+* Explain Kdump in Linux.
+* Explain Linux Loaded.
+* What is Swap Space in Linux?
+* Can you explain Virtual Desktops?
+* What is Root Account in Linux?
+* Explain GUI in Linux.
+* Mention Linux File Permissions.
 
