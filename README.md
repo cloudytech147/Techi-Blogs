@@ -73,8 +73,15 @@
 * In DevOps, explain the purpose of Configuration Management (CM)?
 * Explain the role of Amazon Web Services (AWS) in DevOps?
 
+### 6. [Best Linux OS](https://webhostingprime.com/best-linux-os/)
 
+There is a gigantic rundown of Linux circulations that are accessible available. So in case you are going to attempt Linux OS for the absolute first time, then, at that point, it's an extreme call to make. The Linux operating framework has specific intricacies of which you probably won't know as a beginner. 
 
+You might discover the OS captivating from the get go, yet sorting out its components and capacities will take significantly additional time and information. 
+
+In case you are wanting to turn on Linux for reasons unknown, you ought to essentially realize where to begin. The principal thing you should know is that Linux is anything but a solitary operating framework, however it has more than 100 dispersions. In view of useability, highlights, and obviously, your prerequisites, you can pick and introduce a specific Linux conveyance on your machine. 
+
+Discussing standards, there are Linux dispersions exceptionally intended for novices. Furthermore, in this post, we will discuss the 10 best Linux operating systems that are direct to utilize regardless of whether you are a novice. Look through and get hold of our rundown now.
 
 
 
