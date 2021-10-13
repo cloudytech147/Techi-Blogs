@@ -101,6 +101,27 @@ Discussing standards, there are Linux dispersions exceptionally intended for nov
 14. How many types of AI are there? Which is the most popular one?
 15. What is fuzzy logic? Give some applications of fuzzy logic.
 
+### 8. [Front End Developer Interview Questions](https://www.techgeekbuzz.com/best-front-end-interview-questions/)
+
+1. What does DOCTYPE stand for, and what does it do?
+2. What is the difference between null and undefined?
+3. What is Lazy Loading?
+4. What is Coercion in JS?
+5. What is the use of meta tags in HTML documents?
+6. What is Variable Scope in JS?
+7. What is Node.js?
+8. What is npm?
+9. How does the server hanger the page in which content is present in multiple languages?
+10. Why did we use the data- the attribute in HTML and why it is now discouraged to use?
+11. What is IIFE?
+12. What are the callback functions in JS?
+13. What is React.js?
+14. Why it is encouraged to use external JS and CSS over in-line?
+15. What does this keyword do in JS?
+
+
+
+
 
 
 
