@@ -83,6 +83,23 @@ In case you are wanting to turn on Linux for reasons unknown, you ought to essen
 
 Discussing standards, there are Linux dispersions exceptionally intended for novices. Furthermore, in this post, we will discuss the 10 best Linux operating systems that are direct to utilize regardless of whether you are a novice. Look through and get hold of our rundown now.
 
+### 7. [Artificial Intelligence Interview Questions](https://www.techgeekbuzz.com/artificial-intelligence-interview-questions/)
+
+1. Is AI good or bad?
+2. Do you think machines will surpass humans? What will happen if this becomes true in the future?
+3. What are the AI technologies that you use every day?
+4. Do you believe that self-driving cars will work like human driving someday?
+5. Which one would you like to pursue – AI or data science – as a career choice?
+6. What do you understand about AI? Give a simple example.
+7. If you were to build an AI system, what would you like to build?
+8. How is AI different from machine learning?
+9. What is the association between AI and deep learning?
+10. What is deep learning?
+11. How is AI related to data science?
+12. Explain the layers of a neural network.
+13. Explain the different branches (domains) of AI.
+14. How many types of AI are there? Which is the most popular one?
+15. What is fuzzy logic? Give some applications of fuzzy logic.
 
 
 
