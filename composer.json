@@ -1,1 +1,11 @@
-
+{
+    "name": "cloudytech147/Techi-Blogs",
+    "type": "class",
+    "description": "Tech Blogs.",
+    "keywords": ["tech", "blogs", "professionals", "tutorial"],
+    "homepage": "https://github.com/cloudytech147/Techi-Blogs",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
