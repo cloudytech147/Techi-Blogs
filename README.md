@@ -119,7 +119,18 @@ Discussing standards, there are Linux dispersions exceptionally intended for nov
 14. Why it is encouraged to use external JS and CSS over in-line?
 15. What does this keyword do in JS?
 
+### 9. [Solarmovie Alternatives in 2021](https://www.techgeekbuzz.com/top-solarmovie-alternatives/)
 
+1. CMovies
+2. 123Movies
+3. Vumoo
+4. YesMovies
+5. YifyMovies
+6. Movie4u
+7. MovieWatcher
+8. VexMovies
+9. M4UFree
+10. Putlockerwatch2
 
 
 
