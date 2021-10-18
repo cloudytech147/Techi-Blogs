@@ -141,15 +141,25 @@ Machine learning is probably the most blazing subject of 2021. It is basically a
 ## List of best books:
 
 *1. Hands-on ML with Scikit-learn, Keras, and TensorFlow* - [Buy](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/)
+
 *2. Learning for absolute beginners* - [Buy](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/)
+
 *3. Machine learning: An applied mathematics introduction* - [Buy](https://www.amazon.com/Machine-Learning-Applied-Mathematics-Introduction/dp/1916081606/)
+
 *4. Deep learning (Adaptive computation)* - [Buy](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/)
+
 *5. Pattern Recognition* - [Buy](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/)
+
 *6. Python Machine Learning — Second Edition* - [Buy](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF/)
+
 *7. Machine learning for dummies* - [Buy](https://www.amazon.com/Machine-Learning-Dummies-John-Mueller/dp/1119245516)
+
 *8. Fundamentals of ML for Predictive Data Analytics* - [Buy](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/)
+
 *9. Deep Learning with Python* - [Buy](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
+
 *10. A Probabilistic Perspective* - [Buy](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
+
 
 ## Conclusion:
 
