@@ -132,7 +132,7 @@ Discussing standards, there are Linux dispersions exceptionally intended for nov
 9. M4UFree
 10. Putlockerwatch2
 
-### 10. [Best books for Machine Learning](https://www.techgeekbuzz.com/best-machine-learning-books/)
+### 10. [Best book to learn Machine Learning](https://www.techgeekbuzz.com/best-machine-learning-books/)
 
 Machine learning is probably the most blazing subject of 2021. It is basically a part of AI (Artificial Intelligence) that gives any machine the capacity to settle on choices with no human intercession or express programming. Machine learning calculations are worked by gathering gigantic measures of information from different sources and building a smart framework (model) in view of past encounters, designs and comparable practices.
 
