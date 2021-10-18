@@ -132,7 +132,28 @@ Discussing standards, there are Linux dispersions exceptionally intended for nov
 9. M4UFree
 10. Putlockerwatch2
 
+### 10. [Best books for Machine Learning](https://www.techgeekbuzz.com/best-machine-learning-books/)
 
+Machine learning is probably the most blazing subject of 2021. It is basically a part of AI (Artificial Intelligence) that gives any machine the capacity to settle on choices with no human intercession or express programming. Machine learning calculations are worked by gathering gigantic measures of information from different sources and building a smart framework (model) in view of past encounters, designs and comparable practices.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s42ik8pmey15usm44397.png) 
+
+## List of best books:
+
+*1. Hands-on ML with Scikit-learn, Keras, and TensorFlow* - [Buy](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/)
+*2. Learning for absolute beginners* - [Buy](https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/)
+*3. Machine learning: An applied mathematics introduction* - [Buy](https://www.amazon.com/Machine-Learning-Applied-Mathematics-Introduction/dp/1916081606/)
+*4. Deep learning (Adaptive computation)* - [Buy](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/)
+*5. Pattern Recognition* - [Buy](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/)
+*6. Python Machine Learning — Second Edition* - [Buy](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow-ebook/dp/B0742K7HYF/)
+*7. Machine learning for dummies* - [Buy](https://www.amazon.com/Machine-Learning-Dummies-John-Mueller/dp/1119245516)
+*8. Fundamentals of ML for Predictive Data Analytics* - [Buy](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448/)
+*9. Deep Learning with Python* - [Buy](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/)
+*10. A Probabilistic Perspective* - [Buy](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
+
+## Conclusion:
+
+You can decide to purchase whatever blend of Machine Learning books you need to, in light of the data given in this article. I would suggest you start with Machine learning for outright fledglings, trailed by some other middle of the road or another essential level book in the event that you have no clue about ML or Python. In the event that you know math or Python or a tad of ML, ML for fakers or even Fundamentals of Machine Learning for Predictive Data Analytics would be a decent decision to start.
 
 
 
