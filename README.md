@@ -183,5 +183,17 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * What would be the output of the following code?
 * What would be the output of the following code?
 
+### 12. [Angular Interview Questions](https://www.techgeekbuzz.com/angular-interview-questions/)
 
+* What is the purpose of Angular?
+* What are templates in Angular?
+* How are Angular expressions different from JavaScript expressions?
+* Explain the architecture of Angular.
+* Tell us some differences between components and directives.
+* What is the primary language used in Angular?
+* What is the latest version of Angular?
+* What are NgModules? Differentiate between Javascript modules and NgModules.
+* What are ngIf and ngFor? Can you show a small example to use them?
+* What are the new features in the latest version of Angular?
+* What is the digest cycle?
 
