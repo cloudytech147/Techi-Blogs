@@ -161,7 +161,7 @@ Machine learning is probably the most blazing subject of 2021. It is basically a
 *10. A Probabilistic Perspective* - [Buy](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/)
 
 
-## Conclusion:
+### Conclusion:
 
 You can decide to purchase whatever blend of Machine Learning books you need to, in light of the data given in this article. I would suggest you start with Machine learning for outright fledglings, trailed by some other middle of the road or another essential level book in the event that you have no clue about ML or Python. In the event that you know math or Python or a tad of ML, ML for fakers or even Fundamentals of Machine Learning for Predictive Data Analytics would be a decent decision to start.
 
