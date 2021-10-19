@@ -165,8 +165,23 @@ Machine learning is probably the most blazing subject of 2021. It is basically a
 
 You can decide to purchase whatever blend of Machine Learning books you need to, in light of the data given in this article. I would suggest you start with Machine learning for outright fledglings, trailed by some other middle of the road or another essential level book in the event that you have no clue about ML or Python. In the event that you know math or Python or a tad of ML, ML for fakers or even Fundamentals of Machine Learning for Predictive Data Analytics would be a decent decision to start.
 
+### 11. [Python Interview Questions](https://www.techgeekbuzz.com/python-interview-questions/)
 
-
+* Name some main features of Python for which it is popular.
+* What is the latest version of Python?
+* How Python is a dynamically typed language?
+* Name all the inbuilt data types in Python.
+* What are sets in Python?
+* Why this statement often used in python: if __name__==”__main__”: ?
+* What is Python GIL?
+* What is polymorphism in Python?
+* What is encapsulation in Python?
+* How the Python list is different from a linked list.
+* What will be the output of the following code?
+* What would be the output of this code?
+* What would be the output?
+* What would be the output of the following code?
+* What would be the output of the following code?
 
 
 
