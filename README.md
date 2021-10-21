@@ -211,8 +211,22 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * Define the Zend Engine?
 * Write the command to run the interactive PHP shell from the CLI (command-line interface)?
 
+### 14. [Java interview questions](https://www.techgeekbuzz.com/core-java-interview-questions/)
 
-
+* What is Java?
+* What is Core Java?
+* What is JVM?
+* How does a bytecode run in JAVA?
+* Why do we declare Main as Static?
+* When a subclass has only parameterized constructor and a superclass does not have a matching constructor, What will happen?
+* Explain Public Static Void Main (String args[]).
+* What do you understand by a Wrapper class?
+* Why JAVA is a statically typed language?
+* What is Package in JAVA?
+* What is the Java language programming platform?
+* Name all Java Programming language platforms.
+* Explain Method Overloading and Overriding.
+* What is an interface in Java?
 
 
 
