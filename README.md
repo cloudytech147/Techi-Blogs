@@ -197,3 +197,36 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * What are the new features in the latest version of Angular?
 * What is the digest cycle?
 
+### 13. [PHP Interview Questions](https://www.techgeekbuzz.com/php-interview-questions/)
+
+* What is PHP?
+* What is the full form of PHP?
+* What does PEAR stand for?
+* Which programming language does PHP resemble?
+* What are the differences between PHP & JAVA?
+* What is the latest version of PHP?
+* What is the command to execute a PHP script from the command line?
+* Which function is used to encrypt the password in PHP?
+* Write a Hello World program using the variable?
+* Define the Zend Engine?
+* Write the command to run the interactive PHP shell from the CLI (command-line interface)?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
