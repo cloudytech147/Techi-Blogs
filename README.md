@@ -228,6 +228,24 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * Explain Method Overloading and Overriding.
 * What is an interface in Java?
 
+### 15. [SQL Interview Questions](https://www.techgeekbuzz.com/sql-interview-questions/)
+
+* What is Data?
+* What is a Database?
+* What is SQL?
+* What is the latest version of SQL?
+* What is DBMS?
+* Name the different types of DBMS.
+* Give some Key Features of SQL
+* What is RDBMS?
+* How DBMS is different from RDBMS?
+* Name some RDBMS software that uses SQL.
+* What is a Table in SQL?
+* What Does a JOIN clause do in SQL?
+* Name the different types of JOINS in SQL
+* How SQL is different from a programming language?
+* Name the different Datatypes of SQL.
+
 
 
 
