@@ -228,7 +228,7 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * Explain Method Overloading and Overriding.
 * What is an interface in Java?
 
-### 15. [SQL Interview Questions](https://bit.ly/3jszqz4)
+### 15. [SQL Interview Questions](https://www.techgeekbuzz.com/sql-interview-questions/)
 
 * What is Data?
 * What is a Database?
