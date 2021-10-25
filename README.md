@@ -246,7 +246,19 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * How SQL is different from a programming language?
 * Name the different Datatypes of SQL.
 
+### 16. [Best Linux Distros](https://www.techgeekbuzz.com/linux-distribution/)
 
+![Linux Distributions](https://user-images.githubusercontent.com/90754617/138697415-1789da54-6b28-42ff-bb45-dda51c4ffb60.png)
+
+* The Linux kernel
+* GNU tools
+* Libraries
+* Additional software
+* APIs
+* A window system
+* A window manager
+* A desktop environment and
+* Documentation.
 
 
 
