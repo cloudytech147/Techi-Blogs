@@ -264,7 +264,6 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 
 A matrix is simply defined as some arrangement of numbers that is formed by using columns and rows. In Python, we use a list of lists to represent a matrix.
 
-Vamware
 If each element of the list is itself a list then it would be a matrix. For instance, [[1,2,3],[3,5,3], [7,9,10]] is a 3×3 matrix i.e. it has 3 rows and 3 columns.
 
 Matrix Addition
@@ -282,8 +281,20 @@ The number of rows and columns in a matrix determines its dimensions. For exampl
 
 To add two matrices their dimensions should be similar. For example, you can add a 2×3 matrix only with another matrix with 2 rows and 3 columns.
 
+### [Public Domain Photos](https://webhostingprime.com/top-public-domain-images/)
 
+![Domain Images](https://user-images.githubusercontent.com/90754617/139254414-8077f069-1818-44b9-a6a6-1878e5f769c7.png)
 
+* Pixabay
+* Public Domain Archive
+* New Old Stock
+* Gratisography
+* Picjumbo
+* Kaboompics
+* Pexels
+* Flickr Commons
+* Morguefile
+* Unsplash
 
 
 
