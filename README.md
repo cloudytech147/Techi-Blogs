@@ -319,8 +319,23 @@ To add two matrices their dimensions should be similar. For example, you can add
 * PyGame
 * WxPython
 
+### [Types of Data Structure](https://www.techgeekbuzz.com/types-of-data-structure/)
 
-
+* **Primitive**
+  * Integer
+  * (Double) Floating-point Numbers
+  * Character
+  * Pointer
+* **Non-primitive**
+  * Linear Data Structure
+    * Array
+    * List
+    * Stack
+    * Queue
+  * Non-Linear Data Structure
+     * Tree
+     * Graph
+  * File Data Structure
 
 
 
