@@ -260,7 +260,7 @@ You can decide to purchase whatever blend of Machine Learning books you need to,
 * A desktop environment and
 * Documentation.
 
-### [Python Program to Add Two Matrices](https://www.techgeekbuzz.com/python-program-to-add-two-matrices/)
+### 17. [Python Program to Add Two Matrices](https://www.techgeekbuzz.com/python-program-to-add-two-matrices/)
 
 A matrix is simply defined as some arrangement of numbers that is formed by using columns and rows. In Python, we use a list of lists to represent a matrix.
 
@@ -281,7 +281,7 @@ The number of rows and columns in a matrix determines its dimensions. For exampl
 
 To add two matrices their dimensions should be similar. For example, you can add a 2×3 matrix only with another matrix with 2 rows and 3 columns.
 
-### [Public Domain Photos](https://webhostingprime.com/top-public-domain-images/)
+### 18. [Public Domain Photos](https://webhostingprime.com/top-public-domain-images/)
 
 ![Domain Images](https://user-images.githubusercontent.com/90754617/139254414-8077f069-1818-44b9-a6a6-1878e5f769c7.png)
 
@@ -296,7 +296,7 @@ To add two matrices their dimensions should be similar. For example, you can add
 * Morguefile
 * Unsplash
 
-### [Best CSS Frameworks](https://www.techgeekbuzz.com/best-css-frameworks/)
+### 19. [Best CSS Frameworks](https://www.techgeekbuzz.com/best-css-frameworks/)
 
 * Bootstrap
 * Foundation
@@ -309,7 +309,7 @@ To add two matrices their dimensions should be similar. For example, you can add
 * UI Kit
 * Ant Design
 
-### [Python GUI Frameworks](https://www.techgeekbuzz.com/best-python-gui-frameworks/)
+### 20. [Python GUI Frameworks](https://www.techgeekbuzz.com/best-python-gui-frameworks/)
 
 ![Python GUI Frameworks](https://user-images.githubusercontent.com/90754617/139427821-1a05d3af-5568-4d6f-a51a-71732ee87554.png)
 
@@ -319,7 +319,7 @@ To add two matrices their dimensions should be similar. For example, you can add
 * PyGame
 * WxPython
 
-### [Types of Data Structure](https://www.techgeekbuzz.com/types-of-data-structure/)
+### 21. [Types of Data Structure](https://www.techgeekbuzz.com/types-of-data-structure/)
 
 * **Primitive**
   * Integer
