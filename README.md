@@ -347,7 +347,58 @@ To add two matrices their dimensions should be similar. For example, you can add
 * Multiprocessing Operating System
 * Distributed Operating System
 
+### 23. [Python Matrix](https://www.techgeekbuzz.com/python-matrix/)
 
+**What is a Matrix:**
 
+In general, a matrix is a mathematical concept to represent equations in a 2-D structure, using rows and columns.
 
+**Python Matrix:**
+
+# list approach to make a Matrix
+
+```
+matrix = [[1,2,3,4,5],
+          [6,7,8,9,10],
+          [11,12,13,14,15]
+         ]
+```
+
+**NumPy Arrays:**
+
+**Example:**
+```
+from numpy import array
+arr = array([2,4,8,12,26])
+print(arr)
+print(type(arr)
+```
+
+**Output:**
+```
+[ 2  4  8 12 26]
+<class 'numpy.ndarray'>
+```
+
+**Matrix Addition:**
+
+We can only add two matrices if they have the same number of rows and columns. To add two matrices we can use the Arithmetic “ +” operator.
+
+**Example:**
+```
+import numpy as np
+A = np.array([ [1,2,3], [4,5,6], [7,8,9]])
+B = np.array([[7,8,9],[4,5,6],[1,2,3]])
+print("Matrix Addtion")
+print(A+B)
+```
+
+**Output:**
+
+**Matrix Addtion**
+```
+[[ 8 10 12]
+ [ 8 10 12]
+ [ 8 10 12]]
+```
 
