@@ -337,7 +337,15 @@ To add two matrices their dimensions should be similar. For example, you can add
      * Graph
   * File Data Structure
 
+### 22. [Types of Operating Systems](https://www.techgeekbuzz.com/types-of-operating-systems/)
 
+* Batch Operating System
+* Interactive Operating System
+* Real-Time Operating System
+* Multiprogramming Operating System
+* Multitasking/Time-sharing Operating System
+* Multiprocessing Operating System
+* Distributed Operating System
 
 
 
