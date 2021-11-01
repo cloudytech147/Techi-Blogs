@@ -406,7 +406,7 @@ print(A+B)
 
 Though there is no in-built support for arrays in python, we can use a module name array to create an array data structure.
 
-#### Syntax to create an array in Python using array Module:
+**Syntax to create an array in Python using array Module:**
 
 ```
 import array
@@ -418,7 +418,7 @@ variable_name = array.array('Type code',[item1 , item2, item3,])
 import array
 arr = array.array('d', [1,2,3,4])
 
-## 25. [Python Interpreter](https://www.techgeekbuzz.com/best-python-interpreter/)
+### 25. [Python Interpreter](https://www.techgeekbuzz.com/best-python-interpreter/)
 
 * CPython
 * PyPy
