@@ -427,6 +427,18 @@ arr = array.array('d', [1,2,3,4])
 * IronPython
 * GraalPython
 
+### 26. [Software Testing Interview Questions](https://www.techgeekbuzz.com/software-testing-interview-questions)
+
+1. What is Software testing?
+2. What are Quality Assurance and Quality Control?
+3. What is verification in software testing?
+4. What is validation in software testing?
+5. What is static testing?
+6. What is dynamic testing?
+7. What is white box testing?
+8. What is black box testing?
+9. What is grey box testing?
+10. What is Positive testing?
 
 
 
