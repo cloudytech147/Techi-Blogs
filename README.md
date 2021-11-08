@@ -440,6 +440,9 @@ arr = array.array('d', [1,2,3,4])
 9. What is grey box testing?
 10. What is Positive testing?
 
+### 27. [How to Write Pseudocode](https://www.techgeekbuzz.com/how-to-write-pseudocode/)
+
+Programmers are able to write algorithms using pseudocode. It is an informal language that is a mix of technical terms and common English.
 
 
 
