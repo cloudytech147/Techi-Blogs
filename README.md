@@ -444,8 +444,23 @@ arr = array.array('d', [1,2,3,4])
 
 Programmers are able to write algorithms using pseudocode. It is an informal language that is a mix of technical terms and common English.
 
+### 28. [Best Browser for PC](https://webhostingprime.com/best-browser-for-pc/)
 
-
+* Google Chrome
+* Mozilla Firefox
+* Opera
+* Brave
+* Vivaldi
+* Tor
+* Microsoft Edge
+* Apple Safari
+* Cheetah Browser
+* Maxthon
+* Ghost Browser
+* SeaMonkey
+* Avant Browser
+* Avast Secure
+* Dolphin Browse
 
 
 
