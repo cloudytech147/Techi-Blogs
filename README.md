@@ -462,6 +462,18 @@ Programmers are able to write algorithms using pseudocode. It is an informal lan
 * Avast Secure
 * Dolphin Browse
 
+### 29. [Unix Interview Questions](https://www.techgeekbuzz.com/unix-interview-questions/) 
+
+1. What is a Single-user system?
+2. List some features of Unix.
+3. What are the filters in UNIX?
+4. Describe the UNIX file system.
+5. What is the command to list out the hidden files?
+6. What are the various files contained by the UNIX file system?
+7. Name the command which displays the current date of the system.
+8. How can we zip and unzip a file?
+9. What is the difference between cat and more command?
+10. Who is the superuser in UNIX?
 
 
 
