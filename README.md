@@ -488,6 +488,18 @@ Programmers are able to write algorithms using pseudocode. It is an informal lan
 9. jGRASP
 10. Greenfoot
 
+### 31. [DevOps Certification](https://www.techgeekbuzz.com/top-devops-certifications/)
+
+1. AWS Certified DevOps Engineer – Professional
+2. Microsoft Certified: DevOps Engineer Expert
+3. Become a Cloud DevOps Engineer – Nano-Degree Program
+4. Professional Cloud DevOps Engineer – By Google Cloud Platform
+5. Introduction to DevOps: Practices and Tools – by EdX
+6. DevOps Certification Training – by Edureka
+7. Continuous Delivery & DevOps – by Coursera
+8. DevOps Foundations – LinkedIn Learning
+9. Certified Kubernetes Administrator (CKA) – by CNCF
+10. Puppet Professional Certification
 
 
 
