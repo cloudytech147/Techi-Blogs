@@ -475,7 +475,7 @@ Programmers are able to write algorithms using pseudocode. It is an informal lan
 9. What is the difference between cat and more command?
 10. Who is the superuser in UNIX?
 
-### 30. [Best Java IDEs] to Use in 2022(https://www.techgeekbuzz.com/best-java-ides/)
+### 30. [Best Java IDEs](https://www.techgeekbuzz.com/best-java-ides/) to Use in 2022
 
 1. Eclipse
 2. IntelliJ IDEA
