@@ -501,7 +501,18 @@ Programmers are able to write algorithms using pseudocode. It is an informal lan
 9. Certified Kubernetes Administrator (CKA) – by CNCF
 10. Puppet Professional Certification
 
+### 32. [CSS Interview Questions](https://www.techgeekbuzz.com/css-interview-questions/)
 
+1. What is CSS?
+2. Give some advantages of CSS.
+3. What is the latest version of CSS?
+4. What is the file extension of CSS files?
+5. What are the different methods to integrate CSS on an HTML page?
+6. Why do we use the external method more than any other method?
+7. What is the Embedded style Sheet in CSS
+8. Give some Advantages of Embedded style sheets in CSS.
+9. What is the difference between an inline and an embedded style sheet?
+10. Give some limitations of CSS.
 
 
 
