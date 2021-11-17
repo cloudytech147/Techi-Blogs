@@ -514,6 +514,18 @@ Programmers are able to write algorithms using pseudocode. It is an informal lan
 9. What is the difference between an inline and an embedded style sheet?
 10. Give some limitations of CSS.
 
+### 33. [HTML Interview Questions](https://www.techgeekbuzz.com/html-interview-questions/)
+
+1. What is HTML?
+2. What is the latest version of HTML?
+3. What is HTML 5?
+4. Can I hide my HTML code from the user?
+5. Give some new features introduced in HTML5?
+6. Give some difference between HTML and HTML5?
+7. Why do we write Doctype at the top of each HTML page?
+8. What happens if we do not mention <!DOCTYPE> in an HTML page?
+9. What are tags?
+10. Do all HTML tags come in pairs?
 
 
 
