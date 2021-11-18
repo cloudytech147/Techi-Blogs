@@ -527,6 +527,66 @@ Programmers are able to write algorithms using pseudocode. It is an informal lan
 9. What are tags?
 10. Do all HTML tags come in pairs?
 
+### 34. [How to Unzip Files in Linux](https://www.techgeekbuzz.com/how-to-unzip-files-in-linux/)
+
+Use the unzip command, it’s mandatory to have the unzip package installed on our Linux machine. You can simply use the package manager of any popular Linux distribution you are running to install the unzip package. However, most of the Linux distributions come pre-installed with this package.
+
+`
+$ sudo apt-get -y install unzip
+`
+
+![Unzip Files in Linux](https://user-images.githubusercontent.com/90754617/142427727-bbabf0ef-8124-4706-bae2-14fd5600249e.png)
+
+If you are using Fedora, CentOS, etc. and you have yum package manager, you can use:
+
+`
+$ sudo yum install unzip
+`
+
+When we run the unzip command without any options, in the most native form, it simply extracts all the files and directories inside the current directory that you are in.
+
+`
+$ unzip archive.zip
+`
+![image](https://user-images.githubusercontent.com/90754617/142427908-46a4df9e-b24d-4efc-844b-cb9484188005.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
