@@ -550,7 +550,18 @@ $ unzip archive.zip
 `
 ![image](https://user-images.githubusercontent.com/90754617/142427908-46a4df9e-b24d-4efc-844b-cb9484188005.png)
 
+### 35. [Data Science Interview Questions](https://www.techgeekbuzz.com/data-science-interview-questions/)
 
+1. What is data science? What are the steps involved in data science?
+2. What is the difference between data science and machine learning?
+3. How are data science and artificial intelligence related?
+4. Which is the best language for data science and why?
+5. What are the tools and techniques used for data science?
+6. If you have a dataset of 1 lakh students, who have applied for a particular course, how would you fetch only those students who satisfy all the eligibility criteria to apply for the course?
+7. What is the difference between data wrangling and data transformation?
+8. What is data mining? How is it useful?
+9. What are some of the techniques used for data cleaning?
+10. Tell us about the most common applications of data science.
 
 
 
