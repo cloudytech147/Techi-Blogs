@@ -563,7 +563,11 @@ $ unzip archive.zip
 9. What are some of the techniques used for data cleaning?
 10. Tell us about the most common applications of data science.
 
+### 36. [How to Extract Images from PDF in Python](https://www.techgeekbuzz.com/how-to-extract-images-from-pdf-in-python/)
 
+A Portable Document Format (PDF) is a record design that presents archives containing message and picture information. Perusing text from a PDF report is direct in Python. Notwithstanding, with regards to pictures, there is no immediate and standard way in Python to peruse the pictures. 
+
+We frequently go over different PDFs from which we need to extricate pictures, and for that, we can utilize some PDF peruser or PDF picture extraction application. However, as a Python engineer why introduce applications for such unimportant assignments when we can compose a Python script that concentrates pictures from a PDF record.
 
 
 
