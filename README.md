@@ -569,7 +569,19 @@ A Portable Document Format (PDF) is a record design that presents archives conta
 
 We frequently go over different PDFs from which we need to extricate pictures, and for that, we can utilize some PDF peruser or PDF picture extraction application. However, as a Python engineer why introduce applications for such unimportant assignments when we can compose a Python script that concentrates pictures from a PDF record.
 
+### 37. [Programming Interview Questions](https://www.techgeekbuzz.com/programming-interview-questions/)
 
+1. Name the most common errors that can occur during the execution of a program?
+2. What is the difference between a syntax error and a semantic error?
+3. How do you define an algorithm?
+4. What is a low-level programming language?
+5. What is a high-level programming language?
+6. What are keywords?
+7. What are loops?
+8. What is an array?
+9. What is debugging?
+10. What is the difference between break and continue statements?
+ 
 
 
 
