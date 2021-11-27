@@ -582,6 +582,18 @@ We frequently go over different PDFs from which we need to extricate pictures, a
 9. What is debugging?
 10. What is the difference between break and continue statements?
  
+### 38. [C Interview Questions](https://www.techgeekbuzz.com/c-interview-questions/)
+
+1. Who is the creator of the C programming language?
+2. What is the latest version of C?
+3. Give some key Features of C.
+4. What does break keywords do in C?
+5.  How many reserved keywords does C have?
+6. What is the full form of ASCII?
+7. What is the default value of int static variable?
+8. How \(backslash) used in printf()?
+9. Are N++ and N+1 take the same time to execute, if not why?
+10. Give some differences between local and global variables.
 
 
 
