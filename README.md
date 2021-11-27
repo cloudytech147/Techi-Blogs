@@ -595,6 +595,23 @@ We frequently go over different PDFs from which we need to extricate pictures, a
 9. Are N++ and N+1 take the same time to execute, if not why?
 10. Give some differences between local and global variables.
 
+### 39. [JavaScript Interview Questions](techgeekbuzz.com/javascript-interview-questions/)
+
+1. What is JavaScript?
+2. Name the tech company which develops JavaScript?
+3. Is JavaScript is related to Java?
+4. Give some Differences between Java and JavaScript?
+5. What do you understand by ECMAScript?
+6. What is the latest version of JavaScript?
+7. Name some of the main features of JavaScript?
+8. Name all the Data Types in JavaScript
+9. What does the isNaN function do in JavaScript
+10. Are Attributes and Properties in JavaScript are the same?
+11. Is JavaScript Case-sensitive?
+12. Is JavaScript faster than ASP script if yes, why?
+13. Give Some advantages of Using JavaScript.
+14. Comment on the negative infinity in JavaScript.
+15. How do we perform breaking a string statement in JavaScript?
 
 
 
