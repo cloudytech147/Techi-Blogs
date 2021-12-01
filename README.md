@@ -613,7 +613,19 @@ We frequently go over different PDFs from which we need to extricate pictures, a
 14. Comment on the negative infinity in JavaScript.
 15. How do we perform breaking a string statement in JavaScript?
 
+### 40. [Tree vs Graph](https://www.techgeekbuzz.com/tree-vs-graph/)
 
+**Tree**
+
+A tree is a hierarchical model data structure and it is a collection of a finite number of data elements. Here data elements are nodes. In the tree data structure, the main node is the root node, the topmost node of the structure, and all the other nodes are its children, grandchildren, and so on nodes.
+
+There are many types of tree data structures. How elements are stored in the tree data structure depends upon the specific type of the same.
+
+**Graph**
+
+A graph is also a non-linear data structure. It is a collection of two sets; vertices and edges, where vertices are the nodes and edges are the set of elements that connect the two vertices.
+
+The graph data structure follows a network model to represent its structure and the network model can form a closed loop. There are many types of graphs and how the vertices are connected with edges depends upon the specific type of graphs.
 
 
 
