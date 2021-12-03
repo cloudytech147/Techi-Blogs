@@ -627,6 +627,11 @@ A graph is also a non-linear data structure. It is a collection of two sets; ver
 
 The graph data structure follows a network model to represent its structure and the network model can form a closed loop. There are many types of graphs and how the vertices are connected with edges depends upon the specific type of graphs.
 
+### 41. [Java Cheat Sheet](https://www.techgeekbuzz.com/java-cheat-sheet/)
+
+![image](https://user-images.githubusercontent.com/90754617/144609388-00d1273f-e3c3-46c8-861f-0aee30daf4df.png)
+
+Java is among the most powerful and widely-used programming languages. Get the complete Java reference in the form of Java cheat sheet here.
 
 
 
