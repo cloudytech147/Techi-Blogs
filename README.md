@@ -640,6 +640,18 @@ Java is among the most powerful and widely-used programming languages. Get the c
 ![image](https://user-images.githubusercontent.com/90754617/144710078-6712d39b-d2f6-4535-a1b6-66cd895e2e08.png)
 ![image](https://user-images.githubusercontent.com/90754617/144710080-af748215-4818-4b63-95e6-10bb1cde8c9f.png)
 
+### 43. [C++ Interview Questions](https://www.techgeekbuzz.com/top-cpp-interview-questions/)
+
+1. What does C++ signify?
+2. What is C++?
+3. What is the latest version of C++?
+4. Give some advantages of C++.
+5. What is a pointer?
+6. What is a header file in C++?
+7. What is the header file of getch() in C++?
+8. What is a class?
+9. How many modifiers does the class have?
+10. What is the default modifier of a C++ class?
 
 
 
