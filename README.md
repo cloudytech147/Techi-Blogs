@@ -633,7 +633,12 @@ The graph data structure follows a network model to represent its structure and 
 
 Java is among the most powerful and widely-used programming languages. Get the complete Java reference in the form of Java cheat sheet here.
 
+### 42. [Difference Between CSS and JavaScript](https://www.techgeekbuzz.com/difference-between-css-vs-javascript/)
 
+![image](https://user-images.githubusercontent.com/90754617/144710062-d3dbc539-1f64-453d-a6a2-f89851f107a6.png)
+![image](https://user-images.githubusercontent.com/90754617/144710067-c48022bb-2939-4e57-a5ce-b822cec7c292.png)
+![image](https://user-images.githubusercontent.com/90754617/144710078-6712d39b-d2f6-4535-a1b6-66cd895e2e08.png)
+![image](https://user-images.githubusercontent.com/90754617/144710080-af748215-4818-4b63-95e6-10bb1cde8c9f.png)
 
 
 
