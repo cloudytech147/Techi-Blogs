@@ -653,6 +653,9 @@ Java is among the most powerful and widely-used programming languages. Get the c
 9. How many modifiers does the class have?
 10. What is the default modifier of a C++ class?
 
+### 44. [Remove element from list in python](https://www.techgeekbuzz.com/remove-element-from-list-python/)
+
+A Python list contains multiple elements in a sequential order and there are various methods to remove an element from a list in Python.
 
 
 
