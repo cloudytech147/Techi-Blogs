@@ -657,7 +657,19 @@ Java is among the most powerful and widely-used programming languages. Get the c
 
 A Python list contains multiple elements in a sequential order and there are various methods to remove an element from a list in Python.
 
+### 45. [Frontend Frameworks](https://webhostingprime.com/best-frontend-frameworks/)
 
+**list of best Front-end frameworks:**
+
+* React
+* Angular
+* Vue
+* jQuery
+* EmberJS
+* BackbonesJS
+* Svelte
+* Semantic UI
+* Foundation
 
 
 
