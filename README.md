@@ -675,6 +675,9 @@ A Python list contains multiple elements in a sequential order and there are var
 
 C vs C++ is a hot topic in the programming community, especially among newcomers. Check out all the differences between the two.
 
+### 47. [Translate Languages in Python](https://www.techgeekbuzz.com/how-to-translate-languages-in-python/)
+
+This blog details how to translate languages in Python. For doing so, we need to use the Google Translate API or the googletrans library.
 
 
 
