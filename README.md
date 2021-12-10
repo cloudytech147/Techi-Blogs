@@ -671,8 +671,9 @@ A Python list contains multiple elements in a sequential order and there are var
 * Semantic UI
 * Foundation
 
+### 46. [C vs C++](https://www.techgeekbuzz.com/c-vs-cpp/)
 
-
+C vs C++ is a hot topic in the programming community, especially among newcomers. Check out all the differences between the two.
 
 
 
