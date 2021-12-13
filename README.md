@@ -679,6 +679,9 @@ C vs C++ is a hot topic in the programming community, especially among newcomers
 
 This blog details how to translate languages in Python. For doing so, we need to use the Google Translate API or the googletrans library.
 
+### 48. [Absolute vs Relative Imports in Python](https://www.techgeekbuzz.com/absolute-vs-relative-imports-in-python/)
+
+Absolute vs relative imports in Python - There are two ways to import modules and packages in Python, namely absolute and relative.
 
 
 
