@@ -683,7 +683,18 @@ This blog details how to translate languages in Python. For doing so, we need to
 
 Absolute vs relative imports in Python - There are two ways to import modules and packages in Python, namely absolute and relative.
 
+### 49. [Angular Alternatives](https://www.techgeekbuzz.com/best-angular-alternatives/)
 
+1. Vue.js
+2. Mithril
+3. Knockout
+4. Polymer
+5. Sencha Ext JS
+6. Aurelia
+7. React
+8. Riot
+9. Backbone
+10. Ember
 
 
 
